@@ -1,0 +1,2 @@
+pip install httpx 
+python numerade_downloader.py <https://www.numerade.com/ask/question/help-853/>
